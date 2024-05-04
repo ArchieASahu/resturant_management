@@ -1,0 +1,6 @@
+1,pizza,325
+2,pasta,150
+3,fries,100
+5,coke,78
+6,juice,90
+7,chocolate,40

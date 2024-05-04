@@ -1,0 +1,8 @@
+
+1371,nonveg pizza,5,peri peri fries,2,
+903,Burger,2,Chocolava Cake,2,
+976,Veg Pizza,1,Veg Taco Mexicana,1,
+958,pizza,2,
+1096,pizza,3,juice,1,
+886,coke,1,
+1007,pizza,3,fries,1,
